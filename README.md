@@ -1,11 +1,10 @@
-# Boiler Plate
+# V6 Development
 
-This project will serve as a starting point for most Xavier University property
-projects. 
+V6 is a future environment when we decide to move forward with production level code. At this time, it is a holding ground for discussion, ideas and any preliminary code builds.
 
 ## Requirements
 
-- [Lando](https://lando.dev) - Existing stack built with version 3.0.7
+- [Lando](https://lando.dev)
   - [LEMP Stack](https://docs.lando.dev/config/lemp.html)
   - [NodeJS](https://docs.lando.dev/config/node.html#supported-versions)
     - Dev Dependencies:
