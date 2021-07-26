@@ -1,7 +1,9 @@
-name: boilerplate
-recipe: lemp
+name: v6
+recipe: lamp
 config:
   webroot: .
+  config: 
+    php: php.ini
 services:
   node:
     type: node
